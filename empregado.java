@@ -33,4 +33,11 @@ public class Empregado{
     public void setIdade (int idade){
         this.idade = idade;
     }
+
+    public int getTipo(int tipo){
+        this.tipo = tipo;
+    }
+    public void serTipo(int tipo){
+        return this.tipo;
+    }
 }
