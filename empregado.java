@@ -40,4 +40,9 @@ public class Empregado{
     public void serTipo(int tipo){
         return this.tipo;
     }
+
+    public void setComissao(int comissao){
+        return this.comissao;
+
+    }
 }
